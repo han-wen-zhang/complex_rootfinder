@@ -30,3 +30,11 @@
 *.exe
 *.out
 *.app
+
+# misc
+*.DS_Store
+
+
+# plot
+fort.*
+gn*
