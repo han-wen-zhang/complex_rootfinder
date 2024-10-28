@@ -1,4 +1,4 @@
-# Rootfinders for complex analytic functions
+# Rootfinders for complex analytic functions on a square
 
 This repo contains codes in Fortran 77 accompanying the manuscript:
 
