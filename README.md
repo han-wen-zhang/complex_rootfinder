@@ -7,6 +7,6 @@ H. Zhang, and V. Rokhlin, "Finding roots of complex analytic functions via gener
 It includes subroutines for finding zeros of complex analytic functions on a square.
 The main programs are comrootsq.f and comrootadapsq.f for the nonadaptive and adaptive version respectively.
 
-Run the bash scripts comrootsq and comrootadapsq to excute the program.
+Run the bash script comrootsq and comrootadapsq to excute the program.
 
 
