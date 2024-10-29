@@ -1,6 +1,6 @@
 # Rootfinders for complex analytic functions on a square
 
-This repo contains codes in Fortran 77 accompanying the manuscript:
+This repo contains the code in Fortran 77 accompanying the manuscript:
 
 H. Zhang, and V. Rokhlin, "Finding roots of complex analytic functions via generalized colleague matrices." Advances in Computational Mathematics 50.4 (2024): 71.
 
